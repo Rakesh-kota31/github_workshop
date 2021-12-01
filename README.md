@@ -6,7 +6,7 @@
 
 ***Both italic and bold style***
 
-**TO SEPERATE LINES GIVE ONE LINE GAP**
+~~TO SEPERATE LINES ,USE ONE LINE SPACE ~~
 
 * Lists
 
@@ -14,7 +14,7 @@
    * Unordered list
 
 1. Vegetables
-
+   - Orange
    1. tomatos
 
 [Github](https://github.com/)
@@ -24,3 +24,9 @@
 S No|Name
 -|-
 1|Rakesh Kota
+
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+📽️
