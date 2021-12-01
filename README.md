@@ -8,9 +8,10 @@
 
 **TO SEPERATE LINES GIVE ONE LINE GAP**
 
-* Fruits
+* Lists
 
-   * banana
+   * Ordered list
+   * Unordered list
 
 1. Vegetables
 
